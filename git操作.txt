@@ -15,4 +15,5 @@ doodooke 这是上传代码的用户 可以随意填
 asus@LAPTOP-85SEKD0G MINGW64 /d/工作/教学/github教学资源 (master)
 $ git config --global user.email
 xiaobai@123.com 这是上传代码的邮箱可以随意填
-
+///////////////////////////////////////////////
+怎么拉取代码  首先在本地建一个空的文件夹然后 打开git bash 输入git init 然后git pull git@github.com:Bais-art/teaching.git master 把它的主干拉取下来 然后将这个仓库里的git操作.txt文件修改再上传上teaching仓库中。
